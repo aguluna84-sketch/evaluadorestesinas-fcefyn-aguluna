@@ -1,0 +1,746 @@
+# ARCHIVO DE FUSIONES DE NOMBRES
+# Formato: variante_original => nombre_canónico
+# Una fusión por línea. Las líneas que empiezan con # son comentarios.
+# Si detectas un typo en una tesina nueva (ej. "Jaklin Kembro" cuando es "Jackelyn Kembro"),
+# agregá una línea al final del archivo con el formato: Jaklin Kembro => Jackelyn Kembro
+# La comparación es insensible a mayúsculas/tildes.
+
+# ============================================================
+# FUSIONES APLICADAS EN LA CONSOLIDACIÓN v5 (388 variantes)
+# ============================================================
+
+
+# → Abel Lopez
+Abel Gerardo López => Abel Lopez
+Abel López => Abel Lopez
+
+# → Adan Alejo Tauber
+Adán Tauber => Adan Alejo Tauber
+
+# → Adriana Zapata
+Adriana I Zapata => Adriana Zapata
+Adriana Inés Zapata => Adriana Zapata
+
+# → Agustín Anastasía
+Agustin Anastasia => Agustín Anastasía
+Anastasia Agustín => Agustín Anastasía
+
+# → Agustín Anastasía González
+Agustín Anastasia González => Agustín Anastasía González
+
+# → Alejandra Becerra
+Alejandra Gabriela Becerra => Alejandra Becerra
+Becerra Alejandra => Alejandra Becerra
+
+# → Alejandra Ceballos
+ALEJANDRA CEBALLOS => Alejandra Ceballos
+
+# → Alejandro Guidobaldi
+Héctor Alejandro Guidobaldi => Alejandro Guidobaldi
+
+# → Alejo Fabián Bonifacio
+Alejo Bonifacio => Alejo Fabián Bonifacio
+
+# → Alicia Cámara
+ALICIA CAMARA - => Alicia Cámara
+
+# → Alicia Sérsic
+Alicia Maria Sersic => Alicia Sérsic
+Alicia Noemí Sérsic => Alicia Sérsic
+
+# → Amalia Nelci Pascual
+Nelci Pascual => Amalia Nelci Pascual
+
+# → Ana Calviño
+Ana A Calviño => Ana Calviño
+
+# → Ana Carolina Amarillo
+Ana Amarillo => Ana Carolina Amarillo
+
+# → Ana Carolina Mateos
+Ana C Mateos => Ana Carolina Mateos
+
+# → Ana Cingolani
+Ana Maria Cingolani => Ana Cingolani
+Ana María Cingolani => Ana Cingolani
+
+# → Ana Ferreras
+Ana E Ferreras => Ana Ferreras
+Ana Elisa Ferreras => Ana Ferreras
+
+# → Ana López
+Ana Laura López => Ana López
+
+# → Ana Macías
+Ana Macias => Ana Macías
+
+# → Ana Pia Wiemer
+Ana Pia Weimer => Ana Pia Wiemer
+Ana Pía Wiemer => Ana Pia Wiemer
+Pia Weimer => Ana Pia Wiemer
+Pia Wiemer => Ana Pia Wiemer
+Pía Wiemer => Ana Pia Wiemer
+
+# → Anahi Bignante
+Anahí Bignante => Anahi Bignante
+Elena Anahí Bignante => Anahi Bignante
+
+# → Anahí Franchi
+Anahi Franchi => Anahí Franchi
+Nilda Anahí Franchi => Anahí Franchi
+
+# → Anahí Turina
+Anahi del Valle Turina => Anahí Turina
+Anahi Turina => Anahí Turina
+
+# → Analía Gonzalez
+Analía González => Analía Gonzalez
+
+# → Andrea Cocucci
+Andrea Arístides Cocucci => Andrea Cocucci
+Cocucci Andrea => Andrea Cocucci
+
+# → Andrea Cragnolini
+Andrea Beatriz Cragnolini => Andrea Cragnolini
+
+# → Andrés Blanco
+Blanco Andrés => Andrés Blanco
+
+# → Andrés Visintín
+Andres Maria Visintin => Andrés Visintín
+ANDRES MARIO VISINTIN => Andrés Visintín
+Andres Visintin => Andrés Visintín
+Andrés Maria Visintin => Andrés Visintín
+Andrés Visintin => Andrés Visintín
+Visintin Andrés => Andrés Visintín
+
+# → Angelina Roggio
+Maria Angelina Roggio => Angelina Roggio
+María Angelina Roggio => Angelina Roggio
+
+# → Arnaldo Mangeaud
+Arnaldo Pedro Mangeaud => Arnaldo Mangeaud
+
+# → Benjamin Caruso
+Benjamín Caruso => Benjamin Caruso
+
+# → Brenda Konigheim
+Brenda Salomé Konigheim => Brenda Konigheim
+
+# → Bárbara Arias Toledo
+Barbara Arias Toledo => Bárbara Arias Toledo
+
+# → Carina Marón
+Carina Maron => Carina Marón
+
+# → Carla Cisternas
+Carla Cisterna => Carla Cisternas
+Carla Daniela Cisternas => Carla Cisternas
+
+# → Carla Lábaque
+Carla Labaque => Carla Lábaque
+Carla Maria Lábaque => Carla Lábaque
+Maria Carla Labaque => Carla Lábaque
+Maria Carla Lábaque => Carla Lábaque
+María Carla Lábaque => Carla Lábaque
+
+# → Carlos Harguinteguy
+Carlos Alfredo HARGUINTEGUY => Carlos Harguinteguy
+
+# → Carlos Ignacio Lescano López
+Carlos I Lescano López => Carlos Ignacio Lescano López
+Ignacio Lescano López => Carlos Ignacio Lescano López
+
+# → Carlos Wilson
+en Ciencias Molecular Celular y Neurociencias Carlos Wilson => Carlos Wilson
+
+# → Carolina Martini
+Martini Carolina => Carolina Martini
+
+# → Cecilia Trillo
+Cecilio Trillo => Cecilia Trillo
+
+# → Christian Luis Bender
+Crhistian L Bender => Christian Luis Bender
+Crhistian Luis Bender => Christian Luis Bender
+
+# → Claudia Bregonzio
+Bregonzio Claudia => Claudia Bregonzio
+
+# → Claudia Daga
+Claudia Inés Daga => Claudia Daga
+Ines Claudia Daga => Claudia Daga
+
+# → Claudia González
+Caludia Gonzalez => Claudia González
+
+# → Claudia Rodríguez
+Caludia Rodriguez => Claudia Rodríguez
+Claudia Rodriguez => Claudia Rodríguez
+
+# → Claudio González
+Claudio Alejandro Gonzalez => Claudio González
+Claudio Alejandro González => Claudio González
+Claudio Gonzalez => Claudio González
+Claudo A Gonzalez => Claudio González
+
+# → Cristina Acosta
+María Cristina Acosta => Cristina Acosta
+
+# → Damián Alejandro Cambiagno
+Damian Cambiagno => Damián Alejandro Cambiagno
+Damián Cambiagno => Damián Alejandro Cambiagno
+
+# → Damián Maestri
+Damian Maestri => Damián Maestri
+Damien Maestri => Damián Maestri
+Maestri Damian => Damián Maestri
+
+# → Daniel García
+Danel Garcia => Daniel García
+Daniel A Garcia => Daniel García
+Daniel Garcia => Daniel García
+Daniél García => Daniel García
+
+# → Daniel Mascó
+Daniel Masco => Daniel Mascó
+
+# → Daniela Tamburini
+Daniela Maria Tamburini => Daniela Tamburini
+Daniela María Tamburini => Daniela Tamburini
+
+# → David Eladio Gorla
+David E Gorla => David Eladio Gorla
+
+# → David Lautaro Vergara Tabares
+David Vergara Tabares => David Lautaro Vergara Tabares
+David Vergara-Tabares => David Lautaro Vergara Tabares
+
+# → Diego Gurvich
+Diego E Gurvich => Diego Gurvich
+Diego Ezequiel Gurvich => Diego Gurvich
+
+# → Diego Guzman
+Diego A Guzmán => Diego Guzman
+Diego Alberto Guzman => Diego Guzman
+Diego Alberto Guzmán => Diego Guzman
+Diego Guzmán => Diego Guzman
+
+# → Diego Valdez
+Diego J Valdez => Diego Valdez
+Diego Javier Valdez => Diego Valdez
+Diego Valdéz => Diego Valdez
+
+# → Edith Filippini
+Edith Raquel Filippini => Edith Filippini
+Filippini Edith => Edith Filippini
+
+# → Eduardo Clop
+Clop Eduardo => Eduardo Clop
+Eduardo Matías Clop => Eduardo Clop
+
+# → Eduardo Nohura
+Nohura Eduardo => Eduardo Nohura
+
+# → Eduardo Wannaz
+Eduardo Daniel Wannaz => Eduardo Wannaz
+
+# → Elisa Rivarola
+Maria Elisa Rivarola => Elisa Rivarola
+María Elisa Rivarola => Elisa Rivarola
+
+# → Elizabet Lilia Estallo
+Elizabet Estallo => Elizabet Lilia Estallo
+
+# → Ernesto J Grasso
+Ernesto Grasso => Ernesto J Grasso
+
+# → Esteban Kowaljow
+Kowaljow Esteban => Esteban Kowaljow
+
+# → Estela Cecilia Mlewski
+Cecilia Mlewski => Estela Cecilia Mlewski
+
+# → Evelin Cotella
+Evelin Mariel Cotella => Evelin Cotella
+
+# → Ezequiel González
+Ezequiel Gonzalez => Ezequiel González
+
+# → Federico Javier Degrange
+Federico Degrange => Federico Javier Degrange
+
+# → Fedra Ariana Bollatti
+Fedra Bollatti => Fedra Ariana Bollatti
+
+# → Fernando Carezzano
+Fernando J Carezzano => Fernando Carezzano
+Fernando José Carezzano => Fernando Carezzano
+
+# → Francisco Ludueña Almeida
+Francisco Ludueña-Almeida => Francisco Ludueña Almeida
+
+# → Franco Chiarini
+Franco E Chiarini => Franco Chiarini
+
+# → Franco Ignacio Cargnelutti
+Franco Cargnelutti => Franco Ignacio Cargnelutti
+
+# → Franco Mir
+Franco Rafael Mir => Franco Mir
+
+# → Gabriel Grilli
+Grilli Gabriel => Gabriel Grilli
+
+# → Gabriela Bruno
+Gabriela Alejandra Bruno => Gabriela Bruno
+Grabriela Bruno => Gabriela Bruno
+
+# → Gabriela Paraje
+Maria Gabriela Paraje => Gabriela Paraje
+María Gabriela Paraje => Gabriela Paraje
+
+# → Gastón Diego Calfa
+Gaston Calfa => Gastón Diego Calfa
+Gastón Calfa => Gastón Diego Calfa
+
+# → Gerardo Leynaud
+Gerardo C Leynaud => Gerardo Leynaud
+Leynaud Gerardo => Gerardo Leynaud
+
+# → Germán Robert
+German Robert => Germán Robert
+
+# → Gisela Bazzano
+Gisela Bazano => Gisela Bazzano
+
+# → Guadalupe López Juri
+Guadalupe Lopez Juri => Guadalupe López Juri
+
+# → Guillermo Ernesto Schwindt
+Guillermo Schwindt => Guillermo Ernesto Schwindt
+
+# → Guillermo Luis Albanesi
+Guillermo Albanesi => Guillermo Luis Albanesi
+
+# → Gustavo Baiardi
+Gustavo Baiairdi => Gustavo Baiardi
+Gustavo Baidardi => Gustavo Baiardi
+
+# → Gustavo Pigino
+Gustavo Fernando Pigino => Gustavo Pigino
+
+# → Hebe Carreras
+Hebe Alejandra Carreras => Hebe Carreras
+
+# → Hernán Beccacece
+Hernan Beccacece => Hernán Beccacece
+Hernan Mario Beccacece => Hernán Beccacece
+
+# → Ignacio Lescano
+Ignacio lescano => Ignacio Lescano
+Ingnacio Lescano => Ignacio Lescano
+
+# → Jackelyn Kembro
+Jackelin Kembro => Jackelyn Kembro
+Jackeline Kembro => Jackelyn Kembro
+Jackelyn Maria Kembro => Jackelyn Kembro
+Jackelyn Melissa Kembro => Jackelyn Kembro
+
+# → Javier Goldberg
+Francisco Javier Goldberg => Javier Goldberg
+
+# → Joaquín Navarro
+JOAQUIN LUIS NAVARRO => Joaquín Navarro
+
+# → José Augusto Haro
+José Haro => José Augusto Haro
+
+# → José Baronetti
+Jose Baronetti => José Baronetti
+
+# → José Meriles
+Jose Meriles => José Meriles
+
+# → Juan Domingo Urdampilleta
+Juan Urdampilleta => Juan Domingo Urdampilleta
+
+# → Juan Ignacio Whitworth Hulse
+Juan I Whitworth Hulse => Juan Ignacio Whitworth Hulse
+Juan Whitworth Hulse => Juan Ignacio Whitworth Hulse
+
+# → Juan Manuel Rodriguez
+Juan Manuel Rodríguez => Juan Manuel Rodriguez
+
+# → Judith Hebelen Rodríguez
+Judith Hebelen Rodriguez => Judith Hebelen Rodríguez
+Judith Rodriguez => Judith Hebelen Rodríguez
+
+# → Julieta Soledad Arena
+Julieta S Arena => Julieta Soledad Arena
+
+# → Julián Lescano
+Julian Lescano => Julián Lescano
+Julian Norberto Lescano => Julián Lescano
+Julián Norberto Lescano => Julián Lescano
+
+# → Laura Bellis
+Bellis Laura => Laura Bellis
+Laura Marisa Bellis => Laura Bellis
+
+# → Laura Giojalas
+Lura Giojalas => Laura Giojalas
+
+# → Laura Las Peñas
+Laura las Peñas => Laura Las Peñas
+Maria Laura Las Peñas => Laura Las Peñas
+María Laura Las Peñas => Laura Las Peñas
+
+# → Laura Lucía Saavedra Borelli
+Laura Lucia Saavedra Borelli => Laura Lucía Saavedra Borelli
+
+# → Laura Stiefkens
+Laura B Stiefkens => Laura Stiefkens
+Laura Beatriz Stiefkens => Laura Stiefkens
+
+# → Laura Vivas
+Laura Marta Vivas => Laura Vivas
+
+# → Leonardo Amarilla
+Leonardo David Amarilla => Leonardo Amarilla
+
+# → Liliana Arguello
+Liliana Argüello => Liliana Arguello
+Liliana Mónica Argüello => Liliana Arguello
+
+# → Liliana Buffa
+Liliana María Buffa => Liliana Buffa
+
+# → Lorena Spinsanti
+Lorena Ivana Spinsanti => Lorena Spinsanti
+
+# → Lucas Enrico
+Enrico Lucas => Lucas Enrico
+Lucas Enricco => Lucas Enrico
+
+# → Lucas Miguel Barberis
+Lucas Barberis => Lucas Miguel Barberis
+
+# → Lucia María Ghietto
+Lucía Ghietto => Lucia María Ghietto
+Lucía María Ghietto => Lucia María Ghietto
+
+# → Marcel Zak
+Marcelo Zak => Marcel Zak
+
+# → Marcela Martínez
+Marcela Martinez => Marcela Martínez
+
+# → Marcos Tatián
+Marcos Tatian => Marcos Tatián
+Tatian Marcos => Marcos Tatián
+
+# → Margarita Chiaraviglio
+Chiaraviglio Margarita => Margarita Chiaraviglio
+
+# → Maria Gabriela Paglini
+María Paglini => Maria Gabriela Paglini
+
+# → Maria Julieta Salazar
+Julieta Salazar => Maria Julieta Salazar
+María Julieta Salazar => Maria Julieta Salazar
+
+# → Marianela Rodriguez
+Marianela Rodríguez => Marianela Rodriguez
+
+# → Mariano Bisbal
+Mariano Bisball => Mariano Bisbal
+
+# → Mariano Grilli
+Marinano Grilli => Mariano Grilli
+Pablo Mariano Grilli => Mariano Grilli
+
+# → Mariel Sánchez-Borzone
+Mariela Sanchez-Borzone => Mariel Sánchez-Borzone
+
+# → Mariela Sánchez
+Mariela Sanchez => Mariela Sánchez
+
+# → Mario Cabrera
+Marío Cabrera => Mario Cabrera
+
+# → Marisel Scaldaferro
+Maricel Scaldaferro => Marisel Scaldaferro
+Scaldaferro Marisel => Marisel Scaldaferro
+
+# → Marta Suarez
+Marta Suárez => Marta Suarez
+Martha Suarez => Marta Suarez
+
+# → Martín Videla
+Martin Videla => Martín Videla
+
+# → María Alejandra Bertolotti
+Alejandra Bertolotti => María Alejandra Bertolotti
+Maria Alejandra Bertolotti => María Alejandra Bertolotti
+Maria Alejendra Bertolotti => María Alejandra Bertolotti
+
+# → María Ana Contín
+Maria Ana Contin => María Ana Contín
+
+# → María Andrea del Milagro Godino
+Andre Godino => María Andrea del Milagro Godino
+Andrea Godino => María Andrea del Milagro Godino
+María Andrea Godino => María Andrea del Milagro Godino
+
+# → María Angélica Perillo
+Maria A Perillo => María Angélica Perillo
+María Perillo => María Angélica Perillo
+
+# → María Angélica Rivarola
+Angelica Rivarola => María Angélica Rivarola
+Angélica Rivarola => María Angélica Rivarola
+Maria Angélica Rivarola => María Angélica Rivarola
+María A Rivarola => María Angélica Rivarola
+
+# → María Belén Pisano
+Maria Belén Pisano => María Belén Pisano
+
+# → María Carla de Aranzamendi
+Carla de Aranzamendi => María Carla de Aranzamendi
+
+# → María de los Ángeles Bistoni
+Maria Bistoni => María de los Ángeles Bistoni
+Maria de los Ángeles Bistoni => María de los Ángeles Bistoni
+María A Bistoni => María de los Ángeles Bistoni
+María Bistoni => María de los Ángeles Bistoni
+María de los Angeles Bistoni => María de los Ángeles Bistoni
+
+# → María Eugenia Drewniak
+Eugenia Drewniak => María Eugenia Drewniak
+Maria Eugenia Drewniak => María Eugenia Drewniak
+
+# → María Florencia Dominchin
+María Florencia Dominchín => María Florencia Dominchin
+
+# → María Florencia Soteras
+Florencia Soteras => María Florencia Soteras
+
+# → María Inés Mercado
+Maria Ines Mercado => María Inés Mercado
+
+# → María Laura Ballesteros
+Laura Ballestero => María Laura Ballesteros
+Laura Ballesteros => María Laura Ballesteros
+
+# → María Laura Bernaschini
+Laura Bernaschini => María Laura Bernaschini
+
+# → María Laura López
+Maria Laura López => María Laura López
+
+# → María Laura Moreno
+Maria Laura Moreno => María Laura Moreno
+
+# → María Teresa Cosa
+Teresa Cosa => María Teresa Cosa
+
+# → María Teresa Defagó
+Maria Teresa Defagó => María Teresa Defagó
+María Defago => María Teresa Defagó
+María T Defago => María Teresa Defagó
+Teresa Defago => María Teresa Defagó
+
+# → María Victoria Pisano
+Victoria Pisano => María Victoria Pisano
+
+# → Matías Andrés Izquierdo
+Matias Izquierdo => Matías Andrés Izquierdo
+
+# → Matías Baranzelli
+Matias Cristian Baranzelli => Matías Baranzelli
+
+# → Mauricio BeraneK
+Mauricio Beranek => Mauricio BeraneK
+
+# → Mauricio Martín
+Mauricio Gerardo Martin => Mauricio Martín
+Mauricio Gerardo Martín => Mauricio Martín
+Mauricio Martin => Mauricio Martín
+
+# → Melina Musri
+Melina Mara Musri => Melina Musri
+
+# → Melisa Giorgis
+Giorgis => Melisa Giorgis
+Giorgis Melisa => Melisa Giorgis
+Melisa A Giorgis => Melisa Giorgis
+Melisa Adriana Giorgis => Melisa Giorgis
+Melisa Giorgi => Melisa Giorgis
+
+# → Mirian Bulfon
+Miriam Bulfon => Mirian Bulfon
+
+# → Moira Battan
+Moira Batan => Moira Battan
+Moira Battán => Moira Battan
+Moira Batán => Moira Battan
+
+# → Moira Battan Horenstein
+Moira Battán Horenstein => Moira Battan Horenstein
+Moria Battan Horenstein => Moira Battan Horenstein
+
+# → Nacira Muñoz
+Nacira Belén Muñoz => Nacira Muñoz
+
+# → Natalia Delbon
+Natalia Delbón => Natalia Delbon
+Natalia E Delbón => Natalia Delbon
+
+# → Natalia Pérez Harguindeguy
+Natalia Perez Harguindeguy => Natalia Pérez Harguindeguy
+
+# → Nicolás Maria Cecchini
+Nicolás Cecchini => Nicolás Maria Cecchini
+
+# → Nicolás Nazar
+Franco Nicolás Nazar => Nicolás Nazar
+Nicolas F Nazar => Nicolás Nazar
+Nicolas Nazar => Nicolás Nazar
+
+# → Nicolás Unsain
+Nicolas Unsain => Nicolás Unsain
+
+# → Noelia Guyón
+Noelia Guyon => Noelia Guyón
+
+# → Noelia Soledad Vera
+Noelia Soldedad Vera => Noelia Soledad Vera
+
+# → Pablo Yair Huais
+Pablo Yair HUAIS => Pablo Yair Huais
+
+# → Paula Brunetti
+Paula Cecilia Brunetti => Paula Brunetti
+
+# → Paula Marcora
+Paula I Marcora => Paula Marcora
+Paula Inés Marcora => Paula Marcora
+
+# → Paula Tecco
+Paula A Tecco => Paula Tecco
+PAULA ANDREA TECCO => Paula Tecco
+Paula Andrea Tecco => Paula Tecco
+
+# → Paula Zunino
+María Paula Zunino => Paula Zunino
+
+# → Paulina Laura Páez
+Paulina Páez => Paulina Laura Páez
+
+# → Ramiro Lascano
+Hernan Lascano => Ramiro Lascano
+Hernan Ramiro Lascano => Ramiro Lascano
+Hernán Ramiro Lascano => Ramiro Lascano
+Ramiro Hernan Lascano => Ramiro Lascano
+
+# → Raquel Gleiser
+Raquel Maria Gleiser => Raquel Gleiser
+Raquel Miranda Gleiser => Raquel Gleiser
+
+# → Raúl González Ittig
+Raul Gonzalez Ittig => Raúl González Ittig
+Raul Gozález Ittig => Raúl González Ittig
+Raùl González ITTIG => Raúl González Ittig
+Raúl Enrique González Ittig => Raúl González Ittig
+Raúl Gonzalez Ittig => Raúl González Ittig
+Raúl Ittig => Raúl González Ittig
+
+# → Raúl Marín
+Raul H Marin => Raúl Marín
+Raul Marin => Raúl Marín
+Raúl Héctor Marín => Raúl Marín
+
+# → Ricardo Sahade
+Ricardo J Sahade => Ricardo Sahade
+
+# → Ricardo Torres
+Ricardo Marcelo Torres => Ricardo Torres
+
+# → Romina Torres
+Romina C Torres => Romina Torres
+Romina Cecilia Torres => Romina Torres
+
+# → Sandra Diaz
+Sandra Díaz => Sandra Diaz
+Sandra Myrna Díaz => Sandra Diaz
+
+# → Santiago Benítez-Vieyra
+Santiago Benitez Vieyra => Santiago Benítez-Vieyra
+Santiago Benitez-Vieyra => Santiago Benítez-Vieyra
+
+# → Santiago Rodríguez
+Santiago Rodriguez => Santiago Rodríguez
+
+# → Sebastian Dambolena
+José Dambolena => Sebastian Dambolena
+José Sebastián Dambolena => Sebastian Dambolena
+José Sebastían Dambolena => Sebastian Dambolena
+Sebastián Dambolena => Sebastian Dambolena
+Sebastián José Dambolena => Sebastian Dambolena
+Sebastían Dambolena => Sebastian Dambolena
+
+# → Sebastián Miranda Morales
+R Sebastián Miranda Morales => Sebastián Miranda Morales
+Roberto Sebastián Miranda Morales => Sebastián Miranda Morales
+Sebastian Miranda Morales => Sebastián Miranda Morales
+
+# → Sebastián Zeballos
+Sebastian Zeballos => Sebastián Zeballos
+Sebastián R Zeballos => Sebastián Zeballos
+Sebastián Zeballos Rodolfo => Sebastián Zeballos
+
+# → Sergio Naretto
+Naretto Sergio => Sergio Naretto
+
+# → Silvana Halac
+Silvana R Halac => Silvana Halac
+SILVANA RAQUEL HALAC => Silvana Halac
+Silvana Raquel Halac => Silvana Halac
+
+# → Silvana Longo
+Silvina Longo => Silvana Longo
+
+# → Silvia Molina
+Itatí Molina => Silvia Molina
+Silvia Itatí Molina => Silvia Molina
+
+# → Sofía Machado
+Ana Sofía Machado => Sofía Machado
+
+# → Susana Cagnolo
+Susana R Cagnolo => Susana Cagnolo
+
+# → Susana Peluc
+Peluc Susana => Susana Peluc
+
+# → Valeria Amé
+Valeria Ame => Valeria Amé
+
+# → Veronica Nolan
+María Verónica Nolan => Veronica Nolan
+Verónica Nolan => Veronica Nolan
+
+# → Verónica Cabrera
+Cabrera Verónica => Verónica Cabrera
+Verónica Alejandra CABRERA => Verónica Cabrera
+
+# → Verónica Quiroga
+Verónica A Quiroga => Verónica Quiroga
+Verónica Andrea Quiroga => Verónica Quiroga
+
+# → Viviana Ré
+Viviana Re => Viviana Ré
+
+# → Walter Almirón
+Walter Almiron => Walter Almirón
